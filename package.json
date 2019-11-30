@@ -1,0 +1,29 @@
+{
+    "version": "0.1.0",
+    "name": "notify",
+    "cordova_name": "cordova-plugin-mqtt-notify",
+    "description": "cordova-plugin-mqtt-notify",
+    "license": "Apache 2.0",
+    "author": {
+        "name": "Joson",
+        "email": "xxxx@xxx.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PeiJueChen/cordova-plugin-netspay.git"
+    },
+    "bugs": {
+        "url": "https://github.com/PeiJueChen/cordova-plugin-netspay.git/issues"
+    },
+    "keywords": [
+        "cordova",
+        "plugin",
+        "notify",
+        "mqtt"
+    ],
+    "dependencies": {
+        "@angular/core": "^8.2.12",
+        "@ionic-native/core": "^5.15.1",
+        "rxjs": "^6.5.3"
+    }
+}
