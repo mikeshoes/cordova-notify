@@ -1,6 +1,6 @@
 {
     "version": "0.1.0",
-    "name": "notify",
+    "name": "cordova-plugin-mqtt-notify",
     "cordova_name": "cordova-plugin-mqtt-notify",
     "description": "cordova-plugin-mqtt-notify",
     "license": "Apache 2.0",
